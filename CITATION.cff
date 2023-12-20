@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code (e.g. any of the functions), please cite it as indicated."
+authors:
+  - family-names: "Ryll"
+    given-names: "Martin J."
+  - family-names: "Weingarten"
+    given-names: "Toby N."
+  - family-names: "Schroeder"
+    given-names: "Darrell R."
+  - family-names: "Sprung"
+    given-names: "Juraj"
+title: "Validation of Mortality Risk Scores in Critically Ill Patients with Secondary Pulmonary Embolism"
+version: 1.0.0
+date-released: 2023-12-24
+repository-code: "https://github.com/RyllMartin/eICU_ICU_sPESI_validation_secondary_PE"
