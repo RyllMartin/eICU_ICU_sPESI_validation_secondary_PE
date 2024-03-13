@@ -1,4 +1,4 @@
-# Validation of Mortality Risk Scores in Critically Ill Patients with Secondary Pulmonary Embolism
+# Validity of mortality risk prediction scores in critically ill patients with secondary pulmonary embolism
 
 This is the documentation of the code that was used for data extraction, data processing, data visualization and statistical analysis.
 
